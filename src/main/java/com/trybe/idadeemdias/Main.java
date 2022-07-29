@@ -3,7 +3,9 @@ package com.trybe.idadeemdias;
 import java.util.Scanner;
 
 public class Main {
-
+  /**
+   * class main.
+   */
   public static void main(String[] args) {
     Pessoa qualquer = new Pessoa();
 
