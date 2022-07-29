@@ -10,7 +10,7 @@ public class Main {
     Pessoa qualquer = new Pessoa();
 
     Scanner scanner = new Scanner(System.in);
-    System.out.println("Qual seu nome?");
+    System.out.println("Qual é o seu nome?");
     String nome = scanner.next();
     System.out.println("Qual é sua idade em anos, meses e dias?");
     System.out.println("anos:");
